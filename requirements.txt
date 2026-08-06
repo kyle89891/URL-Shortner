@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+redis
+pydantic-settings
+pytest
+httpx
+fakeredis
